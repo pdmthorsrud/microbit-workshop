@@ -3,8 +3,7 @@ Det har allerede blitt gitt en liten introduksjon til micro:bit og hva det er fo
 
 ## Linker
 * [Skrive kode](http://python.microbit.org/v/1)
-* Beating heart
-* Spillkontroll
-* LED-bonanza
 * [Beating heart](/projects/BeatingHeart/task.md)
 * [Linefollower](/projects/Linefollower/task.md)
+* Spillkontroll
+* LED-bonanza
