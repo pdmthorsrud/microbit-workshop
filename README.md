@@ -6,4 +6,5 @@ Det har allerede blitt gitt en liten introduksjon til micro:bit og hva det er fo
 * Beating heart
 * Spillkontroll
 * LED-bonanza
-* [Beating heart](/projects/task.md)
+* [Beating heart](/projects/BeatingHeart/task.md)
+* [Linefollower](/projects/Linefollower/task.md)
